@@ -39,3 +39,4 @@ You can view and accept the "GitHub Maintainer Additional Terms for Optional Dat
 {% data reusables.sponsors.navigate-to-sponsors-dashboard %}
 3. On the "Overview" tab, under "Optional steps", click **GitHub Maintainer Additional Terms for Optional Data Provision** to display the agreement.
 4. When you have read the agreement, click **Accept** to accept the terms and join the Sponsors for Companies service. Alternatively, click the {% octicon "x" aria-label="The x octicon" %} in the top right corner of the dialog to close the agreement without accepting.
+0x7576ffed8052b39627e2e4efa584d2fc0e1f7229
