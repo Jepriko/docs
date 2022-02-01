@@ -101,3 +101,8 @@ You've successfully created, personalized, and run your first application within
 
 - [Enabling {% data variables.product.prodname_codespaces %} for your organization](/codespaces/managing-codespaces-for-your-organization/enabling-codespaces-for-your-organization)
 - [Managing billing for {% data variables.product.prodname_codespaces %} in your organization](/codespaces/managing-codespaces-for-your-organization/managing-billing-for-codespaces-in-your-organization)
+using System;
+using Nethereum.Web3;
+using Nethereum.Web3.Accounts;
+using Nethereum.Web3.Accounts.Managed;
+using Nethereum.Hex.HexTypes;
