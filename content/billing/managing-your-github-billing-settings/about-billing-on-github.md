@@ -1,4 +1,4 @@
----
+---0x7576ffed8052b39627e2e4efa584d2fc0e1f7229
 title: About billing on GitHub
 intro: 'Everything you purchase on {% data variables.product.prodname_dotcom %} shares your account''s billing date, payment method, and receipt.'
 redirect_from:
